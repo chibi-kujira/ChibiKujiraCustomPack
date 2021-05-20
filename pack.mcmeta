@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "Chibi Kujira's Custom Pack"
+  },
+  "language": {
+    "kujira_custom": {
+        "name":"Chibi Kujira Custom",
+        "region": "\u65e5\u672c",
+        "bidirectional": false
+    }
+  }
+}
